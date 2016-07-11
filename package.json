@@ -1,5 +1,5 @@
 {
-  "name": "gulp-coffee",
+  "name": "gulp-coffee-163",
   "description": "Compile CoffeeScript files",
   "version": "2.3.2",
   "homepage": "http://github.com/wearefractal/gulp-coffee",
@@ -10,7 +10,7 @@
     "gulpplugin"
   ],
   "dependencies": {
-    "coffee-script": "^1.10.0",
+    "coffee-script": "1.6.3",
     "gulp-util": "^3.0.2",
     "merge": "^1.2.0",
     "through2": "^0.6.3",
